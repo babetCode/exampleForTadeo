@@ -1,6 +1,5 @@
 ---
-title: Home
-layout: hextra-home
+
 ---
 
 <div class="hx-mt-6 hx-mb-6">
@@ -16,3 +15,7 @@ layout: hextra-home
 </div>
 
 ![AI generic mexican](/images/generic_mexican.jpg)
+
+<div class="my-40 flex justify-center space-x-12">
+{{< hextra/hero-button text="View CV" link="/cv" >}}
+</div>

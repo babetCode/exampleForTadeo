@@ -18,9 +18,9 @@ markup:
 
 menu:
   main:
-    - name: Contact ↗
-      url: "https://adrienbabet.com/contact/"
-      weight: 1
+    # - name: Contact ↗
+    #   url: "https://adrienbabet.com/contact/"
+    #   weight: 1
     - name: Search
       weight: 2
       params:
